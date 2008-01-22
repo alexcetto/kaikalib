@@ -1,3 +1,0 @@
-- Improve the memory usage of dataflash library (df.c). The actual
-version lost part of the final pages.
-
