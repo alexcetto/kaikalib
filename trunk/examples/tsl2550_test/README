@@ -1,2 +1,0 @@
-This program can read read a light sensor and send the color temperature and the lux by a serial communication at 9600, 8N, 0.
-
