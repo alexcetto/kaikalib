@@ -1,3 +1,8 @@
+2008-01-22  Carlos A. Neves <caneves@gmail.com>
+
+	* Change the CREATE_SUBDIRS doxygen variable to NO.
+
+
 2007-12-28  Carlos A. Neves <caneves@gmail.com>
 
 	* tmp101.h: Add header and example files.
