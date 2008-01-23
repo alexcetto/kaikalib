@@ -1,5 +1,9 @@
 /** \page relnotes Release Notes
 
+<h3>22/Jan/2008</h3>
+
+- Change the CREATE_SUBDIRS doxygen variable to NO.
+
 <h3>14/Jan/2008</h3>
 
 - Release Notes Started 
